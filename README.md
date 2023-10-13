@@ -15,12 +15,10 @@
 <p align="left">
 <a href="https://twitter.com/@kumar18_anuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kumar18_anuj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anuj kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj kumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/anuj kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anuj kumar" height="30" width="40" /></a>
-<a href="https://fb.com/anujkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anujkumar" height="30" width="40" /></a>
-<a href="https://instagram.com/anujk_012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anujk_012" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the_commit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the_commit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anujk_012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anujk_012" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anujk_012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anujk_012" height="30" width="40" /></a>
+
+
+
+
 <a href="https://discord.gg/Anuj Kumar#8075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anuj Kumar#8075" height="30" width="40" /></a>
 </p>
 
