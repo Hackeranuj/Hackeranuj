@@ -1,7 +1,7 @@
 ![logo](https://github.com/Hackeranuj/Hackeranuj/blob/main/Anuj%20Kumar.png)
 <h1 align="center">Hey!👋, I'm Anuj Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw2q-CZ3zmDuSG6Ks5vONL1X&ust=1699162541438000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiYkfDPqYIDFQAAAAAdAAAAABAY">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackeranuj&label=Profile%20views&color=0e75b6&style=flat" alt="hackeranuj" /> </p>
 
